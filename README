@@ -1,0 +1,6 @@
+to run the VM part :
+make
+./corewar/corewar -h
+
+to run the ASM part :
+./asm/asm -h
