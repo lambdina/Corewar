@@ -9,7 +9,7 @@
 * [Contributors](https://www.github.com/NaadiQmmr/Corewar#Contributors)
 
 ## Introduction
-The corewar is a school project during the first year. It is my favorite project I think including all of my students years, and I bet a lot of students agree with me. It is fun by the way you approach the subject, by the way you exchange with the other teams at school and also by the way you made your architecture.
+The corewar is a school project during the first year. It is my favorite project including all of my students years, and I bet a lot of students would agree with me. It is fun by the way you approach the subject, by the way you exchange with the other teams at school and also by the way you made your architecture.
 
 The purpose is to make programs fight against each other, write in the memory of each other, and see the final winner.
 
